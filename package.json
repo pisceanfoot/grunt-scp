@@ -1,8 +1,8 @@
 {
   "name": "grunt-scp",
   "description": "Copy files to remote server",
-  "version": "0.1.8",
-  "homepage": "https://github.com/spmjs/grunt-scp",
+  "version": "0.1.9",
+  "homepage": "https://github.com/pisceanfoot/grunt-scp",
   "author": {
     "name": "Hsiaoming Yang",
     "email": "me@lepture.com",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/spmjs/grunt-scp.git"
+    "url": "git://github.com/pisceanfoot/grunt-scp.git"
   },
   "bugs": {
-    "url": "https://github.com/spmjs/grunt-scp/issues"
+    "url": "https://github.com/pisceanfoot/grunt-scp/issues"
   },
   "licenses": [
     {
@@ -29,10 +29,10 @@
   },
   "dependencies": {
     "async": "~0.2.6",
-    "scp2": "~0.1.4",
+    "scp2": "^0.2.2",
     "inquirer": "~0.3.5"
   },
   "keywords": [
-    "gruntplugin"
+    "grunt scp"
   ]
 }
